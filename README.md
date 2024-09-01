@@ -1,11 +1,5 @@
 # FOOOCUS-MRE-ANDROID-TERMUX-
-Fooocus-MRE on android heck yeahhh!!
-
-Fooocus-MRE and Fooocus requires 16 gb ram to run! my laptop has 16gb ram and it can run Fooocus-MRE but it's super SLOW!!
-SO basically if u even want to use focus u need 18gb ram but 16gb is minimum!
-
-
-DISABLE PHANTOM PROCESS KILLLER OR U WON'T BE ABLE TO MAKE IMAGES OVER 320X320!!!!
+Fooocus-MRE on android heck 
 
 
 
